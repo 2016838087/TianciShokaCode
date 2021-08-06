@@ -8,9 +8,8 @@ comment: false
 ### 学习AppVeyor持续集成Hexo并配置GitHub Pages
 <!-- more -->
 ### 创建项目，在 /projects 页面选择你的博客源码仓库
-![创建项目](project.jpg)
+![创建项目](project.png)
 
-### 选择源码仓库，添加环境变量
 ### 点击项目中 SETTINGS 选项卡，如果项目分支不是默认的，修改 Default branch
 ### 再点击 Environment 栏目，设置4个环境变量：
 
