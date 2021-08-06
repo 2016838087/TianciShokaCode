@@ -2,16 +2,15 @@ clone_depth: 5
 
 environment:
     access_token:
-        secure: aMSRBl7q086lip8uN58vnN2+D83GWgLPGemYGeBOGNXLPwMd9AphTdHlGvLKZ1st
+        secure: xfxo+HPnZ5i2Q04aRIw4ZhHTJw8ADEPt26RwydgGAqXTiQtDPkC70CbvqOM+tY8U
+    matrix:
+        - nodejs_version: "12"
 install:
-    - ps: Install-Product node ''
+    - ps: Install-Product node $env:nodejs_version
     - node --version
     - npm --version
-    - npm i npm@latest -g
     - npm install
     - npm install hexo-cli -g
-    - git submodule init
-    - git submodule update
     
 build_script:
     - hexo generate
