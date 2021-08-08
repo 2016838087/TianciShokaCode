@@ -21,7 +21,7 @@ comment: false
 | GIT_USER_NAME |   git名称|
 
 ### GitHub 添加Access Token
-### 在https://ci.appveyor.com/tools/encrypt页面加密
+### 在[https://ci.appveyor.com/tools/encrypt](https://ci.appveyor.com/tools/encrypt "https://ci.appveyor.com/tools/encrypt")页面加密
 
 ### 配置CI，项目根目录添加appveyor.yml
 ```yaml

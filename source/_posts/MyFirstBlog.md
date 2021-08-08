@@ -23,16 +23,6 @@ comment: false
 ### 武当出来包分配
 ### 富士康里当门卫
 
-![魔都上海](https://cdn.jsdelivr.net/gh/2016838087/TianciHexoBlog@master/2020/01/05/first/ShangHai1.jpg)
+![魔都上海](https://cdn.jsdelivr.net/gh/2016838087/TianciShokaBlog@master/Other/MyFirstBlog/ShangHai1.jpg)
 
-![夜上海](https://cdn.jsdelivr.net/gh/2016838087/TianciHexoBlog@master/2020/01/05/first/ShangHai2.jpg)
-
-
-### 搞笑操作
-{% bili 43443146 %}
-### 四杀诺手![](https://cdn.jsdelivr.net/gh/Artitalk/Artitalk-emoji@master/daku.png)
-{% bili 35672278 %}
-### 无限乱斗盲僧秀1
-{% bili 26794340 %}
-### 无限乱斗盲僧秀2
-{% bili 25937987 %}
+![夜上海](https://cdn.jsdelivr.net/gh/2016838087/TianciShokaBlog@master/Other/MyFirstBlog/ShangHai2.jpg)
