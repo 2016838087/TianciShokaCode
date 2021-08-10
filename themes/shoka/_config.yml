@@ -25,14 +25,14 @@ favicon:
 # if `true`, the page will be displayed directly as Dark Mode, unless the user makes another choice
 darkmode: false
 
-# By default the page will automatically scroll to the last viewed position
-# if `false`, automatic positioning will be turned off
+# 默认情况下，再次打开页面时，会自动滚动到上次浏览的位置。
+# 这个选项设为 false 时将停用此功能。
 auto_scroll: true
 
-# Whether to show the loading cat
+#  是否显示页面加载动画 loading-cat
 loader:
-  start: true # When entering the page
-  switch: true # When switching to another page
+  start: false # 当初次打开页面时，显示加载动画
+  switch: false # 切换到其他页面时，显示加载动画
 
 # click with Firework
 fireworks:
@@ -134,6 +134,7 @@ widgets:
   # if true, will show recent comments
   recent_comments: false
 
+# 页尾全站统计
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
   since: 2020
@@ -145,6 +146,7 @@ footer:
   count: false
   powered: true
 
+# 文章界面统计
 post:
   # Dependencies: https://github.com/theme-next/hexo-symbols-count-time
   count: false
@@ -181,6 +183,39 @@ creative_commons:
   license: by-nc-sa
   language: deed.zh
 
+# Comments
+# Valine
+# For more information: https://github.com/amehime/MiniValine
+valine:
+  appId: cbSBY3q77EE1UpivdrbefIqi-MdYXbMMI
+  appKey: RD6UuwP5oeceYmtT0Exdjs5w
+  placeholder: ヽ(○´∀`)ﾉ♪ # Comment box placeholder
+  avatar: mp # Gravatar style : mp, identicon, monsterid, wavatar, robohash, retro
+  pageSize: 10 # Pagination size
+  lang: zh-CN
+  visitor: true # Article reading statistic
+  NoRecordIP: false # Whether to record the commenter IP
+  serverURLs: # When the custom domain name is enabled, fill it in here (it will be detected automatically by default, no need to fill in)
+  powerMode: true
+  tagMeta:
+    visitor: 新朋友
+    master: 主人
+    friend: 小伙伴
+    investor: 金主粑粑
+  tagColor:
+    master: "#855194"
+    friend: "#a77c59"
+    investor: "#ed6ea0"
+  tagMember:
+    master:
+      # - hash of master@email.com
+      # - hash of master2@email.com
+    friend:
+      # - hash of friend@email.com
+      # - hash of friend2@email.com
+    investor:
+      # - hash of investor1@email.com
+  placeholder: "1. 提问前请先仔细阅读本文档⚡\n2. 页面显示问题💥，请提供控制台截图📸或者您的测试网址\n3. 其他任何报错💣，请提供详细描述和截图📸，祝食用愉快💪"
 # bgm
 audio:
   - https://y.qq.com/n/yqq/playlist/7361885581.html
