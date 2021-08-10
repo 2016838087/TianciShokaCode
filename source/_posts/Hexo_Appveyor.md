@@ -3,7 +3,7 @@ title: Appveyor持续集成Hexo
 date: 2021-08-06 18:00:00
 categories: Other
 tags: ['技术'] 
-comment: true
+comment: false
 ---
 ### 学习AppVeyor持续集成Hexo并配置GitHub Pages
 <!-- more -->

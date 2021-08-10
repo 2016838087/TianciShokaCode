@@ -23,6 +23,7 @@
     "hexo-renderer-multi-markdown-it": "^0.1.5",
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^1.0.0",
+    "hexo-symbols-count-time": "^0.7.1",
     "hexo-tag-bili": "^1.0.0",
     "pangu": "^4.0.7"
   }
