@@ -107,7 +107,9 @@ menu:
 # Value before `||` delimiter is the target permalink,
 # secend value is the name of Font icon.
 social:
-  github: https://github.com/2016838087 || github || "#191717"
+  # github: https://github.com/2016838087 || github || "#191717"
+  qq: https://wpa.qq.com/msgrd?v=3&uin=2016838087&site=11&menu=yes || qq || "#55acd5"
+  wechat: https://cdn.jsdelivr.net/gh/2016838087/SakuraHexoFile@master/themes/images/wechat.jpg || weixin || "#ea716e"
   #google: https://plus.google.com/yourname || google
   #twitter: https://twitter.com/yourname || twitter || "#00aff0"
   #zhihu: https://www.zhihu.com/people/yourname || zhihu || "#1e88e5"

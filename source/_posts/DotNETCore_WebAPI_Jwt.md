@@ -103,15 +103,6 @@ c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     BearerFormat = "JWT",
     Scheme = "Bearer"
 });
-c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
-{
-    In = ParameterLocation.Header,
-    Type = SecuritySchemeType.ApiKey,
-    Description = "直接在下框中输入Bearer {token}（注意两者之间是一个空格）",
-    Name = "Authorization",
-    BearerFormat = "JWT",
-    Scheme = "Bearer"
-});
 c.AddSecurityRequirement(new OpenApiSecurityRequirement
 {
     {
