@@ -8,7 +8,7 @@ comment: false
 1. 和你，跌跌撞撞长大；还要，磨磨蹭蹭变老。And you, stumbled and grew up; Also,dawdle and grow old.
 ![Tianci](1.jpeg "Tianci")
 ![Tianci](2.jpeg "Tianci")
-![杨静婷](https://cdn.jsdelivr.net/gh/2016838087/TianciLife@master/life/images/tingting/婷婷1.jpg "杨静婷")
+![杨静婷](https://gcore.jsdelivr.net/gh/2016838087/TianciLife@master/life/images/tingting/婷婷1.jpg "杨静婷")
 
 2. 远大前程 星光万顷 你向北向南向西向东 而我只向你.Great expectations, bright stars, you go north, south, west and east, and I only ask you.
 ![Tianci](3.jpeg "Tianci")

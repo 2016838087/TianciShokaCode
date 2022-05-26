@@ -23,6 +23,6 @@ comment: false
 ### 武当出来包分配
 ### 富士康里当门卫
 
-![魔都上海](https://cdn.jsdelivr.net/gh/2016838087/TianciShokaBlog@master/Other/MyFirstBlog/ShangHai1.jpg)
+![魔都上海](https://gcore.jsdelivr.net/gh/2016838087/TianciShokaBlog@master/Other/MyFirstBlog/ShangHai1.jpg)
 
-![夜上海](https://cdn.jsdelivr.net/gh/2016838087/TianciShokaBlog@master/Other/MyFirstBlog/ShangHai2.jpg)
+![夜上海](https://gcore.jsdelivr.net/gh/2016838087/TianciShokaBlog@master/Other/MyFirstBlog/ShangHai2.jpg)
