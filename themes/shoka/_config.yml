@@ -200,15 +200,22 @@ valine:
   NoRecordIP: true # 是否记录评论者IP
   serverURLs: https://gcyrrrto.api.lncldglobal.com #启用自定义域名后，在此处填写（默认自动检测，无需填写）
   tagMeta:
-    - 主人
-    - 小伙伴
-    - 新朋友
-  master:
-    tianciwork@qq.com
-    # - hash of master@email.com
-  friends:
-    # - hash of friend@email.com
-    # - hash of friend2@email.com
+    visitor: 新朋友
+    master: 主人
+    friend: 小伙伴
+    investor: 金主粑粑
+  tagColor:
+    master: "#855194"
+    friend: "#a77c59"
+    investor: "#ed6ea0"
+  tagMember:
+    master:
+      c59259ac86d8a3805a308998f4fc0870
+      # - hash of master@email.com
+    friend:
+      # - hash of friend@email.com
+    investor:
+      # - hash of investor@email.com
   powerMode: true
 
 # bgm
