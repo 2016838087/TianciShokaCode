@@ -3,7 +3,8 @@ title: 博客正式上线
 date: 2020-01-05 22:22:22
 categories: Other #分类
 tags: ['娱乐'] #文章标签
-comment: false
+comment: true #开启评论
+sticky: true #置顶文章
 ---
 # 前言
 

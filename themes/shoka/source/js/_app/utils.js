@@ -180,3 +180,4 @@ const store = {
     localStorage.removeItem(item);
   }
 }
+console.log("%c 博客主题：Theme.Shoka %c https://shoka.lostyu.me/ ","color: white; background: #e9546b; padding:5px 0;","padding:4px;border:1px solid #e9546b;");

@@ -186,6 +186,31 @@ creative_commons:
   license: by-nc-sa
   language: deed.zh
 
+# Comments
+# Valine
+# For more information: https://github.com/amehime/MiniValine
+valine:
+  appId: gcyRrrTODColvahbgrSvApl5-MdYXbMMI
+  appKey: 5W43w4sQ6cVbCqfCTRN0h6Ta
+  placeholder: ヽ(○´∀`)ﾉ♪ # 注释框占位符
+  avatar: mp # Gravatar风格：mp、identicon、monsterid、wavatar、robohash、retro
+  pageSize: 10 # Pagination size
+  lang: zh-CN
+  visitor: true # 文章阅读统计
+  NoRecordIP: true # 是否记录评论者IP
+  serverURLs: https://gcyrrrto.api.lncldglobal.com #启用自定义域名后，在此处填写（默认自动检测，无需填写）
+  tagMeta:
+    - 主人
+    - 小伙伴
+    - 新朋友
+  master:
+    tianciwork@qq.com
+    # - hash of master@email.com
+  friends:
+    # - hash of friend@email.com
+    # - hash of friend2@email.com
+  powerMode: true
+
 # bgm
 audio:
   - https://y.qq.com/n/yqq/playlist/7361885581.html
