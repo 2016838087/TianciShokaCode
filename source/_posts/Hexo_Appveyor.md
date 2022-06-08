@@ -1,7 +1,7 @@
 ---
 title: Appveyor持续集成Hexo
 date: 2021-08-06 18:00:00
-categories: Other
+categories: Hexo
 tags: ['技术'] 
 comment: false
 ---
